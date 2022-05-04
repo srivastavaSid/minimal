@@ -1,4 +1,4 @@
-title: Siddhant Srivastava
+title: <p align="center"> Siddhant Srivastava </p>
 logo: /assets/img/Siddhant.jpg
 description:
   <p align="center">
@@ -7,13 +7,8 @@ description:
  
   <br>  
   I'm working as a CAD Engineer in Emulation & FPGA Domain.
-  Have 13+ years of experience.
-  Developed new methodology to reduce TAT in emulation build & run domains.
-  Reduced migration effort from simulation to emulation from 3 weeks to 4 days.
-  Enabled customers to use multi-vendor solution with minimum efforts (ideally less than 1 day).
-  Written also web micro services.
   <br>
   </p>
 
-  
+
 theme: jekyll-theme-minimal
