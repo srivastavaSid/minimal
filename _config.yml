@@ -1,6 +1,17 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: Siddhant Srivastava
+logo: /assets/img/Siddhant.jpg
+description:
+  <p align="center">
+  <a href="pdf/Siddhant Srivastava.pdf">Resume</a> |
+  <a href="https://github.com/srivastavaSid">GitHub</a>
+ 
+  <br>  
+  I'm working as a CAD Engineer in Emulation & FPGA Domain.
+   - Have 13+ years of experience.
+   - Developed new methodology to reduce TAT in emulation build & run domains.
+   - Reduced migration effort from simulation to emulation from 3 weeks to 4 days.
+   - Enabled customers to use multi-vendor solution with minimum efforts (ideally less than 1 day).
+  Written also web micro services.
+  <br>
+  </p>
 theme: jekyll-theme-minimal
